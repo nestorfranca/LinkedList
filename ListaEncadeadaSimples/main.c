@@ -37,7 +37,7 @@ int main() {
 	printf("\n");
 
     // Insere um elemento de forma ordenada na lista
-    int elementoOrdenado = 10;
+    int elementoOrdenado = 88;
     lista = lst_insere_ordenada(lista, elementoOrdenado);
     printf("Lista apos a insercao ordenada do elemento %d:\n", elementoOrdenado);
     lst_imprime(lista);
